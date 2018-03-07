@@ -1,3 +1,6 @@
 {
-  "id": "webapp"
+  "id": "elixirplug",
+  "healthCheck": {
+    "url": "localhost"
+  }
 }
