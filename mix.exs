@@ -5,7 +5,7 @@ defmodule PlugExample.MixProject do
     [
       app: :plug_example,
       version: "0.1.0",
-      elixir: "~> 1.6",
+      elixir: "1.6.2",
       start_permanent: Mix.env() == :prod,
       deps: deps()
     ]
